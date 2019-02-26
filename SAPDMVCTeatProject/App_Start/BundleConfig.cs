@@ -33,7 +33,7 @@ namespace SAPDMVCTeatProject
 
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                       "~/Content/CosmoV4.css",
+                       "~/Content/slateV4.css",
                        "~/Content/site.css"));
 
             //bundles.Add(new StyleBundle("~/Content/css").Include(
