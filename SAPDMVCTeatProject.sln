@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPDMVCTeatProject", "SAPDMVCTeatProject\SAPDMVCTeatProject.csproj", "{C305CC7F-EABD-43A7-9602-FAF1518A8AD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieBusinessLayer", "MovieBusinessLayer\MovieBusinessLayer.csproj", "{CC8C1021-2249-4F9A-9B8A-B57BD27C10DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C305CC7F-EABD-43A7-9602-FAF1518A8AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C305CC7F-EABD-43A7-9602-FAF1518A8AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C305CC7F-EABD-43A7-9602-FAF1518A8AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8C1021-2249-4F9A-9B8A-B57BD27C10DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8C1021-2249-4F9A-9B8A-B57BD27C10DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8C1021-2249-4F9A-9B8A-B57BD27C10DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8C1021-2249-4F9A-9B8A-B57BD27C10DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
